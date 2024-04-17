@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../serial"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "c"
+		}
+	}
+}
